@@ -22,5 +22,3 @@ The project contains the following main components:
 - Source code files
 - Dependencies
 - Documentation
-
-"# To-do-list" 
