@@ -23,9 +23,4 @@ The project contains the following main components:
 - Dependencies
 - Documentation
 
-## License
-This project is open source and available under the MIT License.
-
-## Last Updated
-May 25, 2025
 "# To-do-list" 
